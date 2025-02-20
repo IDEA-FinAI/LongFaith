@@ -10,16 +10,63 @@
 
 ## 🛠️ Setup
 
+### Download Datasets
+Download training and evaluation datasets in Google Drive.
+
+Here's a well-formatted `README.md` section with a **File Directory** for your dataset:
+
+## 📂 File Directory
+
+```
+LongFaith_datasets/
+│── longbench/
+│   ├── 2wikimqa/
+│   │   ├── test.jsonl
+│   ├── hotpotqa/
+│   │   ├── test.jsonl
+│   ├── multifiedqa_en/
+│   │   ├── test.jsonl
+│   ├── musique/
+│   │   ├── test.jsonl
+│   ├── qasper/
+│   │   ├── test.jsonl
+│── multihop/
+│   ├── 2wikimultihopqa/
+│   │   ├── test.jsonl
+│   ├── hotpotqa/
+│   │   ├── test.jsonl
+│   ├── musique/
+│   │   ├── test.jsonl
+│   │   ├── train.jsonl
+│── longfaith_syn/
+│   ├── gpt-4o/
+│   │   ├── faith_sft_2k.json
+│   │   ├── faith_po_2k.json
+│   ├── gpt-4o-mini/
+│   │   ├── faith_sft_2k.json
+│   │   ├── faith_po_2k.json
+│   ├── Meta-Llama-3.1-8B-Instruct/
+│   │   ├── faith_sft_2k.json
+│   │   ├── faith_po_2k.json
+│   ├── Meta-Llama-3.1-70B-Instruct-AWQ-INT4/
+│   │   ├── faith_sft_2k.json
+│   │   ├── faith_po_2k.json
+│   ├── Qwen2.5-7B-Instruct/
+│   │   ├── faith_sft_1k.json
+│   │   ├── faith_sft_2k.json
+│   │   ├── faith_sft_4k.json
+│   │   ├── faith_sft_8k.json
+│   │   ├── faith_po_1k.json
+│   │   ├── faith_po_2k.json
+│   │   ├── faith_po_4k.json
+│   │   ├── faith_po_8k.json
+```
+
 ### Create Environment
 ```bash
 conda create -n longfaith python=3.11
 conda activate longfaith
 pip install -r requirements.txt
-```
-
-### Install Dependencies
-```bash
-pip install transformers torch
 ```
 
 ## 🚀 Model Running
