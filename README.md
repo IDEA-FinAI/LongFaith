@@ -73,14 +73,14 @@ print(outputs[0]["generated_text"][-1])
 ## 📊 Evaluation
 
 ```bash
-python predict.py
+python predict.py --model_path cehao/Meta-Llama-3.1-8B-Instruct-LongFaith-PO --datasets multihop --prompt coc
+python predict.py --model_path cehao/Meta-Llama-3.1-8B-Instruct-LongFaith-PO --datasets longbench --prompt coc
 ```
 
 ## 🙏 Acknowledgments
-- Special thanks to [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory).
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Special thanks to:
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+- [vLLM](https://github.com/vllm-project/vllm)
 
 ## 📓 Cite our Work
 ```python
@@ -94,3 +94,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       url={https://arxiv.org/abs/2502.12583}, 
 }
 ```
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
