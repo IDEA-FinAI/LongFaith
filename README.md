@@ -17,6 +17,7 @@ You can download the training and evaluation datasets from the following [Google
 
 ```
 LongFaith_datasets/
+<!-- Evaluation Datasets -->
 │── longbench/
 │   ├── 2wikimqa/
 │   ├── hotpotqa/
@@ -27,6 +28,7 @@ LongFaith_datasets/
 │   ├── 2wikimultihopqa/
 │   ├── hotpotqa/
 │   ├── musique/
+<!-- Training Datasets -->
 │── longfaith_syn/
 │   ├── gpt-4o/
 │   ├── gpt-4o-mini/
