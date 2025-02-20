@@ -1,7 +1,6 @@
 # LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data 🚀
 
-![LongFaith Small](https://github.com/IDEA-FinAI/LongFaith/blob/main/figures/longfaith_small.pdf)
-![LongFaith](https://github.com/IDEA-FinAI/LongFaith/blob/main/figures/LongFaith.pdf)
+![LongFaith](https://github.com/IDEA-FinAI/LongFaith/blob/main/figures/longfaith_main.png)
 
 ## 📄 Paper & Resources
 [![arXiv](https://img.shields.io/badge/Arxiv-2502.12583-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2502.12583)
