@@ -21,23 +21,14 @@ Here's a well-formatted `README.md` section with a **File Directory** for your d
 LongFaith_datasets/
 │── longbench/
 │   ├── 2wikimqa/
-│   │   ├── test.jsonl
 │   ├── hotpotqa/
-│   │   ├── test.jsonl
 │   ├── multifiedqa_en/
-│   │   ├── test.jsonl
 │   ├── musique/
-│   │   ├── test.jsonl
 │   ├── qasper/
-│   │   ├── test.jsonl
 │── multihop/
 │   ├── 2wikimultihopqa/
-│   │   ├── test.jsonl
 │   ├── hotpotqa/
-│   │   ├── test.jsonl
 │   ├── musique/
-│   │   ├── test.jsonl
-│   │   ├── train.jsonl
 │── longfaith_syn/
 │   ├── gpt-4o/
 │   │   ├── faith_sft_2k.json
