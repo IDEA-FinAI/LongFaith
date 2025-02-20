@@ -11,9 +11,7 @@
 ## 🛠️ Setup
 
 ### Download Datasets
-Download training and evaluation datasets in Google Drive.
-
-Here's a well-formatted `README.md` section with a **File Directory** for your dataset:
+You can download the training and evaluation datasets from the following [Google Drive folder](https://drive.google.com/drive/folders/1f2306gR41glW9PzO6dJz8X5J53XsSNtC).
 
 ## 📂 File Directory
 
