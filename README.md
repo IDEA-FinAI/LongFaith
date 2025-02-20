@@ -31,26 +31,10 @@ LongFaith_datasets/
 │   ├── musique/
 │── longfaith_syn/
 │   ├── gpt-4o/
-│   │   ├── faith_sft_2k.json
-│   │   ├── faith_po_2k.json
 │   ├── gpt-4o-mini/
-│   │   ├── faith_sft_2k.json
-│   │   ├── faith_po_2k.json
 │   ├── Meta-Llama-3.1-8B-Instruct/
-│   │   ├── faith_sft_2k.json
-│   │   ├── faith_po_2k.json
 │   ├── Meta-Llama-3.1-70B-Instruct-AWQ-INT4/
-│   │   ├── faith_sft_2k.json
-│   │   ├── faith_po_2k.json
 │   ├── Qwen2.5-7B-Instruct/
-│   │   ├── faith_sft_1k.json
-│   │   ├── faith_sft_2k.json
-│   │   ├── faith_sft_4k.json
-│   │   ├── faith_sft_8k.json
-│   │   ├── faith_po_1k.json
-│   │   ├── faith_po_2k.json
-│   │   ├── faith_po_4k.json
-│   │   ├── faith_po_8k.json
 ```
 
 ### Create Environment
