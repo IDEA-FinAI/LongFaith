@@ -4,7 +4,6 @@
 
 ## 📄 Paper & Resources
 [![arXiv](https://img.shields.io/badge/Arxiv-2502.12583-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2502.12583)
-[![hf_paper](https://img.shields.io/badge/%F0%9F%A4%97-Paper-FF6F61)](https://huggingface.co/collections/cehao/longfaith-67b61f7b17ccb022c68ba22d)
 [![hf_model_data](https://img.shields.io/badge/%F0%9F%A4%97-Models&Datasets-48A9DC)](https://huggingface.co/collections/cehao/longfaith-67b61f7b17ccb022c68ba22d)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-Data-34A853)](https://drive.google.com/drive/folders/1f2306gR41glW9PzO6dJz8X5J53XsSNtC)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -62,7 +61,15 @@ python predict.py
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-🌟 **Happy Coding!** 🌟
+## 📓 Cite our Work
+```python
+@misc{yang2025longfaith,
+      title={LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data}, 
+      author={Cehao Yang and Xueyuan Lin and Chengjin Xu and Xuhui Jiang and Shengjie Ma and Aofan Liu and Hui Xiong and Jian Guo},
+      year={2025},
+      eprint={2502.12583},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.12583}, 
+}
 ```
