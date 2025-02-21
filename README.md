@@ -30,7 +30,6 @@ LongFaith_datasets/
 │   ├── musique/
 <!-- Training Datasets -->
 │── longfaith_syn/
-│   ├── gpt-4o/
 │   ├── gpt-4o-mini/
 │   ├── Meta-Llama-3.1-8B-Instruct/
 │   ├── Meta-Llama-3.1-70B-Instruct-AWQ-INT4/
@@ -45,6 +44,8 @@ pip install -r requirements.txt
 ```
 
 ## 🚀 Model Running
+
+The official implementation of Meta-Llama-3.1-8B-Instruct-LongFaith-PO is trained on LongFaith-PO synthesized by GPT-4o-mini.
 
 ```python
 import transformers
