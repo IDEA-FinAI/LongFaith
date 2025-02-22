@@ -78,6 +78,10 @@ python predict.py --model_path cehao/Meta-Llama-3.1-8B-Instruct-LongFaith-PO --d
 python predict.py --model_path cehao/Meta-Llama-3.1-8B-Instruct-LongFaith-PO --datasets longbench --prompt coc
 ```
 
+## 🎯 Training
+
+We use [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) for supervised fine-tuning and preference optimization, which provides an efficient training pipiline. The hyperparameters are given in our paper.
+
 ## 🙏 Acknowledgments
 Special thanks to:
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
