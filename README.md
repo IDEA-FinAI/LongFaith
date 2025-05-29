@@ -1,4 +1,4 @@
-# LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data 🚀
+# LongFaith: Enhancing Long-Context Reasoning in LLMs with Faithful Synthetic Data 🚀 (ACL 2025)
 
 ![LongFaith](https://github.com/IDEA-FinAI/LongFaith/blob/main/figures/longfaith_main.png)
 
